@@ -1,0 +1,11 @@
+numpy
+pandas
+stats
+gridsearch
+decision tree algorithm
+knn algorithm
+confusion matrix
+classfication_report
+altair
+matplotlib
+seaborn
